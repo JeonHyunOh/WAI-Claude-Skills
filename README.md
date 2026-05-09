@@ -53,10 +53,10 @@ Copy each skill into your global Claude Code skills directory:
 mkdir -p ~/.claude/skills/intent-init ~/.claude/skills/intent-apply
 
 curl -o ~/.claude/skills/intent-init/SKILL.md \
-  https://raw.githubusercontent.com/JeonHyunOh/intent-engineering-skills/main/skills/intent-init/SKILL.md
+  https://raw.githubusercontent.com/JeonHyunOh/WAI-Claude-Skills/main/skills/intent-init/SKILL.md
 
 curl -o ~/.claude/skills/intent-apply/SKILL.md \
-  https://raw.githubusercontent.com/JeonHyunOh/intent-engineering-skills/main/skills/intent-apply/SKILL.md
+  https://raw.githubusercontent.com/JeonHyunOh/WAI-Claude-Skills/main/skills/intent-apply/SKILL.md
 ```
 
 Then in any Claude Code session:
@@ -138,10 +138,10 @@ Not:  [이번 작업에서 건드리지 않을 것]
 mkdir -p ~/.claude/skills/intent-init ~/.claude/skills/intent-apply
 
 curl -o ~/.claude/skills/intent-init/SKILL.md \
-  https://raw.githubusercontent.com/JeonHyunOh/intent-engineering-skills/main/skills/intent-init/SKILL.md
+  https://raw.githubusercontent.com/JeonHyunOh/WAI-Claude-Skills/main/skills/intent-init/SKILL.md
 
 curl -o ~/.claude/skills/intent-apply/SKILL.md \
-  https://raw.githubusercontent.com/JeonHyunOh/intent-engineering-skills/main/skills/intent-apply/SKILL.md
+  https://raw.githubusercontent.com/JeonHyunOh/WAI-Claude-Skills/main/skills/intent-apply/SKILL.md
 ```
 
 ### 사용법
